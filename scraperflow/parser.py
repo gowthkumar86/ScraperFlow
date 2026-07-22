@@ -4,14 +4,13 @@ import logging
 logger = logging.getLogger(__name__)
 
 
-def parse_article(html: str, url: str) -> dict | None:
+def parse_article(html: str, url: str, config) -> dict | None:
     soup = BeautifulSoup(html, "html.parser")
 
-    title_tag = soup.select_one(".product_main h1")
-    price_tag = soup.select_one(".price_color")
-    availability_tag = soup.select_one(".availability")
-    rating_tag = soup.select_one(".star-rating")
-    description_tag = soup.select_one("#product_description ~ p")
+    title_tag = soup.select_one(config.selectors.title)
+    price_tag = soup.select_one(config.selectors.price) if config.selectors.price else None
+    description_tag = soup.select_one(config.selectors.description) if config.selectors.description else None
+    image_tag = soup.select_one(config.selectors.product_image) if config.selectors.product_image else None
 
     if not title_tag:
         logger.warning(f"Could not parse title from {url}")
@@ -21,8 +20,7 @@ def parse_article(html: str, url: str) -> dict | None:
         "url": url,
         "title": title_tag.get_text(strip=True),
         "price": price_tag.get_text(strip=True).replace("Â","") if price_tag else None,
-        "availability": availability_tag.get_text(strip=True) if availability_tag else None,
-        "rating": rating_tag["class"][1] if rating_tag else None,
         "description": description_tag.get_text(strip=True) if description_tag else None,
+        "product_image" : image_tag.get('src') if image_tag else None
     }
 
