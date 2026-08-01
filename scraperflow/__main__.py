@@ -11,14 +11,21 @@ bookstoscrape_site_config = SiteConfig(domain='bookstoscrape.com',
                                        selectors=bookstoscrape_selector_map)
 
 # #carwebsite
-# car_website_selector_map = SelectorMap(title='h2.title',
-#                                        description='p[itemprop="description"]',
-#                                        product_image='.main-image img')
+car_website_selector_map = SelectorMap(title='h2.title',
+                                       description='p[itemprop="description"]',
+                                       product_image='.main-image img')
 
-# car_website_site_config = SiteConfig(domain= 'webscraper.io/test-sites',
-#                                      url='https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001',
-#                                      selectors=car_website_selector_map)
+car_website_site_config = SiteConfig(domain= 'webscraper.io/test-sites',
+                                     url='https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001',
+                                     selectors=car_website_selector_map)
+
+# httpco.de — returns exact HTTP status codes, useful for testing retry/exception behavior
+httpcode_selector_map = SelectorMap(title='h1')
+httpcode_site_config = SiteConfig(domain='httpco.de',
+                                   url='https://httpco.de',
+                                   selectors=httpcode_selector_map)
 
 scraper = Scraper()
-scraper.orchestrate_scraper(bookstoscrape_site_config)
+# scraper.orchestrate_scraper(bookstoscrape_site_config)
 # scraper.orchestrate_scraper(car_website_site_config)
+scraper.orchestrate_scraper(httpcode_site_config)  # use with --urls https://httpco.de/200 https://httpco.de/404 https://httpco.de/503

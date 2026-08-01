@@ -1,0 +1,22 @@
+# ScraperFlow CLI Commands
+
+# Scrape URLs (positional args)
+python -m scraperflow <url1> <url2> ...
+
+# Scrape URLs from a file (one URL per line)
+python -m scraperflow --url-file scraperflow/urls.txt
+
+# Custom output path (default: output.json)
+python -m scraperflow <url> --output results.json
+
+# Verbose logging (DEBUG level)
+python -m scraperflow <url> --verbose
+
+# Combine options
+python -m scraperflow --url-file scraperflow/urls.txt --output results.json --verbose
+
+# Run tests
+python -m pytest scraperflow/tests/ -v
+
+# Run a single test file
+python -m pytest scraperflow/tests/test_retry.py -v

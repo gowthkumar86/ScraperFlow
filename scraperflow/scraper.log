@@ -1,0 +1,516 @@
+2026-07-15 16:59:24,496 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-15 16:59:24,504 | urllib3.connectionpool | DEBUG    | connectionpool.py:1062 | Starting new HTTPS connection (1): books.toscrape.com:443
+2026-07-15 16:59:26,546 | urllib3.connectionpool | DEBUG    | connectionpool.py:544 | https://books.toscrape.com:443 "GET /catalogue/a-light-in-the-attic_1000/index.html HTTP/1.1" 200 9279
+2026-07-15 16:59:26,548 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-15 16:59:26,574 | scraperflow.cli | INFO     | cli.py:65 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html parsing is completed
+2026-07-15 16:59:26,575 | scraperflow.cli | INFO     | cli.py:70 | Data is saved in json
+2026-07-15 17:08:50,737 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-15 17:08:52,567 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-15 17:13:40,255 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-15 17:13:41,053 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-15 17:13:41,069 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html parsing is completed
+2026-07-15 17:13:41,069 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2026-07-15 17:13:42,141 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html fetched succesfully. status code: 200
+2026-07-15 17:13:42,144 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html parsing is completed
+2026-07-15 17:13:42,144 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/soumission_998/index.html
+2026-07-15 17:13:43,215 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/soumission_998/index.html fetched succesfully. status code: 200
+2026-07-15 17:13:43,223 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/soumission_998/index.html parsing is completed
+2026-07-15 17:13:43,223 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+2026-07-15 17:13:44,288 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html fetched succesfully. status code: 200
+2026-07-15 17:13:44,295 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html parsing is completed
+2026-07-15 17:13:44,295 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2026-07-15 17:13:45,394 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html fetched succesfully. status code: 200
+2026-07-15 17:13:45,401 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html parsing is completed
+2026-07-15 17:13:45,401 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2026-07-15 17:13:46,691 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html fetched succesfully. status code: 200
+2026-07-15 17:13:46,694 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html parsing is completed
+2026-07-15 17:13:46,694 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+2026-07-15 17:13:47,918 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html fetched succesfully. status code: 200
+2026-07-15 17:13:47,932 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html parsing is completed
+2026-07-15 17:13:47,932 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+2026-07-15 17:13:49,010 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html fetched succesfully. status code: 200
+2026-07-15 17:13:49,022 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html parsing is completed
+2026-07-15 17:13:49,022 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+2026-07-15 17:13:50,090 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html fetched succesfully. status code: 200
+2026-07-15 17:13:50,097 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html parsing is completed
+2026-07-15 17:13:50,097 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2026-07-15 17:13:51,252 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html fetched succesfully. status code: 200
+2026-07-15 17:13:51,262 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html parsing is completed
+2026-07-15 17:13:51,265 | scraperflow.cli | INFO     | cli.py:89 | Data is saved in json
+2026-07-19 17:33:04,284 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-19 17:33:05,354 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-19 17:33:05,379 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html parsing is completed
+2026-07-19 17:33:05,379 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2026-07-19 17:33:06,445 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html fetched succesfully. status code: 200
+2026-07-19 17:33:06,453 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html parsing is completed
+2026-07-19 17:33:06,453 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/soumission_998/index.html
+2026-07-19 17:33:07,551 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/soumission_998/index.html fetched succesfully. status code: 200
+2026-07-19 17:33:07,555 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/soumission_998/index.html parsing is completed
+2026-07-19 17:33:07,555 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+2026-07-19 17:33:08,699 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html fetched succesfully. status code: 200
+2026-07-19 17:33:08,707 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html parsing is completed
+2026-07-19 17:33:08,708 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2026-07-19 17:33:09,772 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html fetched succesfully. status code: 200
+2026-07-19 17:33:09,781 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html parsing is completed
+2026-07-19 17:33:09,781 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2026-07-19 17:33:10,904 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html fetched succesfully. status code: 200
+2026-07-19 17:33:10,915 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html parsing is completed
+2026-07-19 17:33:10,915 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+2026-07-19 17:33:12,179 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html fetched succesfully. status code: 200
+2026-07-19 17:33:12,189 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html parsing is completed
+2026-07-19 17:33:12,189 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+2026-07-19 17:33:13,373 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html fetched succesfully. status code: 200
+2026-07-19 17:33:13,384 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html parsing is completed
+2026-07-19 17:33:13,385 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+2026-07-19 17:33:14,587 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html fetched succesfully. status code: 200
+2026-07-19 17:33:14,601 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html parsing is completed
+2026-07-19 17:33:14,601 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2026-07-19 17:33:15,763 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html fetched succesfully. status code: 200
+2026-07-19 17:33:15,774 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html parsing is completed
+2026-07-19 17:33:15,778 | scraperflow.cli | INFO     | cli.py:89 | Data is saved in json
+2026-07-19 17:47:49,047 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-19 17:47:50,271 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-19 17:47:50,297 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html parsing is completed
+2026-07-19 17:47:50,297 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2026-07-19 17:47:51,397 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html fetched succesfully. status code: 200
+2026-07-19 17:47:51,406 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html parsing is completed
+2026-07-19 17:47:51,406 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/soumission_998/index.html
+2026-07-19 17:47:52,429 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/soumission_998/index.html fetched succesfully. status code: 200
+2026-07-19 17:47:52,434 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/soumission_998/index.html parsing is completed
+2026-07-19 17:47:52,434 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+2026-07-19 17:47:53,557 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html fetched succesfully. status code: 200
+2026-07-19 17:47:53,564 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html parsing is completed
+2026-07-19 17:47:53,564 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2026-07-19 17:47:54,621 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html fetched succesfully. status code: 200
+2026-07-19 17:47:54,630 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html parsing is completed
+2026-07-19 17:47:54,631 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2026-07-19 17:47:55,748 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html fetched succesfully. status code: 200
+2026-07-19 17:47:55,759 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html parsing is completed
+2026-07-19 17:47:55,759 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+2026-07-19 17:47:56,926 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html fetched succesfully. status code: 200
+2026-07-19 17:47:56,935 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html parsing is completed
+2026-07-19 17:47:56,935 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+2026-07-19 17:47:58,055 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html fetched succesfully. status code: 200
+2026-07-19 17:47:58,061 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html parsing is completed
+2026-07-19 17:47:58,062 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+2026-07-19 17:47:59,127 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html fetched succesfully. status code: 200
+2026-07-19 17:47:59,141 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html parsing is completed
+2026-07-19 17:47:59,141 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2026-07-19 17:48:00,253 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html fetched succesfully. status code: 200
+2026-07-19 17:48:00,264 | scraperflow.cli | INFO     | cli.py:84 | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html parsing is completed
+2026-07-19 17:48:00,267 | scraperflow.cli | INFO     | cli.py:89 | Data is saved in json
+2026-07-22 18:38:49,012 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 18:38:51,558 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 18:42:26,177 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 18:42:27,036 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 18:42:27,059 | scraperflow.scraper | INFO     | scraper.py:47 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html parsing is completed
+2026-07-22 18:42:27,078 | scraperflow.scraper | INFO     | scraper.py:52 | Data is saved in json
+2026-07-22 19:02:55,874 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:02:57,933 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 19:02:57,958 | scraperflow.scraper | INFO     | scraper.py:47 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html parsing is completed
+2026-07-22 19:02:57,962 | scraperflow.scraper | INFO     | scraper.py:52 | Data is saved in json
+2026-07-22 19:03:38,649 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:03:39,406 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 19:03:39,420 | scraperflow.scraper | INFO     | scraper.py:47 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html parsing is completed
+2026-07-22 19:03:39,420 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001
+2026-07-22 19:03:40,692 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001 fetched succesfully. status code: 200
+2026-07-22 19:03:40,706 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001
+2026-07-22 19:03:40,706 | scraperflow.scraper | WARNING  | scraper.py:45 | Data is not parsed for URL: https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001
+2026-07-22 19:03:40,708 | scraperflow.scraper | INFO     | scraper.py:52 | Data is saved in json
+2026-07-22 19:04:10,308 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:04:11,103 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 19:04:11,122 | scraperflow.scraper | INFO     | scraper.py:47 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html parsing is completed
+2026-07-22 19:04:11,123 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001
+2026-07-22 19:04:11,279 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001 fetched succesfully. status code: 200
+2026-07-22 19:04:11,293 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001
+2026-07-22 19:04:11,293 | scraperflow.scraper | WARNING  | scraper.py:45 | Data is not parsed for URL: https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001
+2026-07-22 19:04:11,296 | scraperflow.scraper | INFO     | scraper.py:52 | Data is saved in json
+2026-07-22 19:04:11,296 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:04:12,161 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 19:04:36,375 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:04:37,241 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 19:05:40,030 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:05:40,991 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 19:05:41,010 | scraperflow.scraper | INFO     | scraper.py:47 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html parsing is completed
+2026-07-22 19:05:41,010 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001
+2026-07-22 19:05:41,750 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001 fetched succesfully. status code: 200
+2026-07-22 19:05:41,755 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001
+2026-07-22 19:05:41,755 | scraperflow.scraper | WARNING  | scraper.py:45 | Data is not parsed for URL: https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001
+2026-07-22 19:05:41,757 | scraperflow.scraper | INFO     | scraper.py:52 | Data is saved in json
+2026-07-22 19:05:41,757 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:05:48,772 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 19:07:37,256 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:07:38,245 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 19:07:38,270 | scraperflow.scraper | INFO     | scraper.py:47 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html parsing is completed
+2026-07-22 19:07:38,270 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001
+2026-07-22 19:07:38,521 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001 fetched succesfully. status code: 200
+2026-07-22 19:07:38,534 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001
+2026-07-22 19:07:38,534 | scraperflow.scraper | WARNING  | scraper.py:45 | Data is not parsed for URL: https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001
+2026-07-22 19:07:38,537 | scraperflow.scraper | INFO     | scraper.py:52 | Data is saved in json
+2026-07-22 19:07:38,538 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:07:39,397 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 19:08:27,796 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:08:28,607 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 19:08:28,631 | scraperflow.scraper | INFO     | scraper.py:47 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html parsing is completed
+2026-07-22 19:08:28,631 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001
+2026-07-22 19:08:28,759 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001 fetched succesfully. status code: 200
+2026-07-22 19:08:28,772 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001
+2026-07-22 19:08:28,772 | scraperflow.scraper | WARNING  | scraper.py:45 | Data is not parsed for URL: https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001
+2026-07-22 19:08:28,775 | scraperflow.scraper | INFO     | scraper.py:52 | Data is saved in json
+2026-07-22 19:08:28,776 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:08:29,900 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 19:08:29,908 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:08:29,908 | scraperflow.scraper | WARNING  | scraper.py:45 | Data is not parsed for URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:08:29,908 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001
+2026-07-22 19:08:30,043 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001 fetched succesfully. status code: 200
+2026-07-22 19:08:30,048 | scraperflow.scraper | INFO     | scraper.py:47 | URL: https://webscraper.io/test-sites/product/mercedes-benz-w123-280e-1955-c001 parsing is completed
+2026-07-22 19:08:30,049 | scraperflow.scraper | INFO     | scraper.py:52 | Data is saved in json
+2026-07-22 19:22:45,552 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:22:46,859 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 19:22:46,883 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html parsing is completed
+2026-07-22 19:22:46,883 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2026-07-22 19:22:47,989 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html fetched succesfully. status code: 200
+2026-07-22 19:22:47,996 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html parsing is completed
+2026-07-22 19:22:47,997 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/soumission_998/index.html
+2026-07-22 19:22:49,058 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/soumission_998/index.html fetched succesfully. status code: 200
+2026-07-22 19:22:49,065 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/soumission_998/index.html parsing is completed
+2026-07-22 19:22:49,066 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+2026-07-22 19:22:50,333 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html fetched succesfully. status code: 200
+2026-07-22 19:22:50,342 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html parsing is completed
+2026-07-22 19:22:50,343 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2026-07-22 19:22:51,563 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html fetched succesfully. status code: 200
+2026-07-22 19:22:51,572 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html parsing is completed
+2026-07-22 19:22:51,573 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2026-07-22 19:22:52,688 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html fetched succesfully. status code: 200
+2026-07-22 19:22:52,698 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html parsing is completed
+2026-07-22 19:22:52,699 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+2026-07-22 19:22:53,708 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html fetched succesfully. status code: 200
+2026-07-22 19:22:53,722 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html parsing is completed
+2026-07-22 19:22:53,722 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+2026-07-22 19:22:54,784 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html fetched succesfully. status code: 200
+2026-07-22 19:22:54,794 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html parsing is completed
+2026-07-22 19:22:54,794 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+2026-07-22 19:22:55,867 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html fetched succesfully. status code: 200
+2026-07-22 19:22:55,874 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html parsing is completed
+2026-07-22 19:22:55,874 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2026-07-22 19:22:57,092 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html fetched succesfully. status code: 200
+2026-07-22 19:22:57,103 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html parsing is completed
+2026-07-22 19:22:57,106 | scraperflow.scraper | INFO     | scraper.py:52 | Data is saved in json
+2026-07-22 19:22:57,107 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:22:58,014 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 19:22:58,016 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:22:58,016 | scraperflow.scraper | WARNING  | scraper.py:45 | webscraper.io/test-sites | Data is not parsed for URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:22:58,016 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2026-07-22 19:22:59,241 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html fetched succesfully. status code: 200
+2026-07-22 19:22:59,251 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2026-07-22 19:22:59,251 | scraperflow.scraper | WARNING  | scraper.py:45 | webscraper.io/test-sites | Data is not parsed for URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2026-07-22 19:22:59,251 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/soumission_998/index.html
+2026-07-22 19:23:00,571 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/soumission_998/index.html fetched succesfully. status code: 200
+2026-07-22 19:23:00,579 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://books.toscrape.com/catalogue/soumission_998/index.html
+2026-07-22 19:23:00,580 | scraperflow.scraper | WARNING  | scraper.py:45 | webscraper.io/test-sites | Data is not parsed for URL: https://books.toscrape.com/catalogue/soumission_998/index.html
+2026-07-22 19:23:00,580 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+2026-07-22 19:23:01,819 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html fetched succesfully. status code: 200
+2026-07-22 19:23:01,828 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+2026-07-22 19:23:01,828 | scraperflow.scraper | WARNING  | scraper.py:45 | webscraper.io/test-sites | Data is not parsed for URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+2026-07-22 19:23:01,828 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2026-07-22 19:23:02,928 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html fetched succesfully. status code: 200
+2026-07-22 19:23:02,937 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2026-07-22 19:23:02,937 | scraperflow.scraper | WARNING  | scraper.py:45 | webscraper.io/test-sites | Data is not parsed for URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2026-07-22 19:23:02,937 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2026-07-22 19:23:04,094 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html fetched succesfully. status code: 200
+2026-07-22 19:23:04,101 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2026-07-22 19:23:04,101 | scraperflow.scraper | WARNING  | scraper.py:45 | webscraper.io/test-sites | Data is not parsed for URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2026-07-22 19:23:04,101 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+2026-07-22 19:23:05,284 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html fetched succesfully. status code: 200
+2026-07-22 19:23:05,296 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+2026-07-22 19:23:05,296 | scraperflow.scraper | WARNING  | scraper.py:45 | webscraper.io/test-sites | Data is not parsed for URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+2026-07-22 19:23:05,296 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+2026-07-22 19:23:06,411 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html fetched succesfully. status code: 200
+2026-07-22 19:23:06,424 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+2026-07-22 19:23:06,424 | scraperflow.scraper | WARNING  | scraper.py:45 | webscraper.io/test-sites | Data is not parsed for URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+2026-07-22 19:23:06,424 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+2026-07-22 19:23:07,540 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html fetched succesfully. status code: 200
+2026-07-22 19:23:07,549 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+2026-07-22 19:23:07,549 | scraperflow.scraper | WARNING  | scraper.py:45 | webscraper.io/test-sites | Data is not parsed for URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+2026-07-22 19:23:07,549 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2026-07-22 19:23:08,664 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html fetched succesfully. status code: 200
+2026-07-22 19:23:08,676 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2026-07-22 19:23:08,676 | scraperflow.scraper | WARNING  | scraper.py:45 | webscraper.io/test-sites | Data is not parsed for URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2026-07-22 19:37:13,768 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:37:15,471 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 19:37:15,495 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html parsing is completed
+2026-07-22 19:37:15,496 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2026-07-22 19:37:16,596 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html fetched succesfully. status code: 200
+2026-07-22 19:37:16,605 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html parsing is completed
+2026-07-22 19:37:16,605 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/soumission_998/index.html
+2026-07-22 19:37:17,709 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/soumission_998/index.html fetched succesfully. status code: 200
+2026-07-22 19:37:17,717 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/soumission_998/index.html parsing is completed
+2026-07-22 19:37:17,717 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+2026-07-22 19:37:18,895 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html fetched succesfully. status code: 200
+2026-07-22 19:37:18,901 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html parsing is completed
+2026-07-22 19:37:18,901 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2026-07-22 19:37:20,022 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html fetched succesfully. status code: 200
+2026-07-22 19:37:20,031 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html parsing is completed
+2026-07-22 19:37:20,031 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2026-07-22 19:37:21,142 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html fetched succesfully. status code: 200
+2026-07-22 19:37:21,152 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html parsing is completed
+2026-07-22 19:37:21,152 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+2026-07-22 19:37:22,226 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html fetched succesfully. status code: 200
+2026-07-22 19:37:22,231 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html parsing is completed
+2026-07-22 19:37:22,231 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+2026-07-22 19:37:23,299 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html fetched succesfully. status code: 200
+2026-07-22 19:37:23,305 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html parsing is completed
+2026-07-22 19:37:23,305 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+2026-07-22 19:37:24,529 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html fetched succesfully. status code: 200
+2026-07-22 19:37:24,538 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html parsing is completed
+2026-07-22 19:37:24,538 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2026-07-22 19:37:25,757 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html fetched succesfully. status code: 200
+2026-07-22 19:37:25,768 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html parsing is completed
+2026-07-22 19:37:25,772 | scraperflow.scraper | INFO     | scraper.py:52 | Data is saved in json
+2026-07-22 19:37:25,777 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:37:26,680 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 19:37:26,688 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:37:26,689 | scraperflow.scraper | WARNING  | scraper.py:45 | webscraper.io/test-sites | Data is not parsed for URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:37:26,689 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2026-07-22 19:37:27,857 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html fetched succesfully. status code: 200
+2026-07-22 19:37:27,866 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2026-07-22 19:37:27,867 | scraperflow.scraper | WARNING  | scraper.py:45 | webscraper.io/test-sites | Data is not parsed for URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2026-07-22 19:37:27,867 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/soumission_998/index.html
+2026-07-22 19:37:29,032 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/soumission_998/index.html fetched succesfully. status code: 200
+2026-07-22 19:37:29,040 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://books.toscrape.com/catalogue/soumission_998/index.html
+2026-07-22 19:37:29,041 | scraperflow.scraper | WARNING  | scraper.py:45 | webscraper.io/test-sites | Data is not parsed for URL: https://books.toscrape.com/catalogue/soumission_998/index.html
+2026-07-22 19:37:29,041 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+2026-07-22 19:37:30,262 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html fetched succesfully. status code: 200
+2026-07-22 19:37:30,271 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+2026-07-22 19:37:30,271 | scraperflow.scraper | WARNING  | scraper.py:45 | webscraper.io/test-sites | Data is not parsed for URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+2026-07-22 19:37:30,271 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2026-07-22 19:37:31,492 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html fetched succesfully. status code: 200
+2026-07-22 19:37:31,503 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2026-07-22 19:37:31,503 | scraperflow.scraper | WARNING  | scraper.py:45 | webscraper.io/test-sites | Data is not parsed for URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2026-07-22 19:37:31,503 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2026-07-22 19:37:32,720 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html fetched succesfully. status code: 200
+2026-07-22 19:37:32,731 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2026-07-22 19:37:32,731 | scraperflow.scraper | WARNING  | scraper.py:45 | webscraper.io/test-sites | Data is not parsed for URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2026-07-22 19:37:32,731 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+2026-07-22 19:37:33,948 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html fetched succesfully. status code: 200
+2026-07-22 19:37:33,961 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+2026-07-22 19:37:33,961 | scraperflow.scraper | WARNING  | scraper.py:45 | webscraper.io/test-sites | Data is not parsed for URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+2026-07-22 19:37:33,961 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+2026-07-22 19:37:35,177 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html fetched succesfully. status code: 200
+2026-07-22 19:37:35,189 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+2026-07-22 19:37:35,189 | scraperflow.scraper | WARNING  | scraper.py:45 | webscraper.io/test-sites | Data is not parsed for URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+2026-07-22 19:37:35,189 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+2026-07-22 19:37:36,406 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html fetched succesfully. status code: 200
+2026-07-22 19:37:36,419 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+2026-07-22 19:37:36,419 | scraperflow.scraper | WARNING  | scraper.py:45 | webscraper.io/test-sites | Data is not parsed for URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+2026-07-22 19:37:36,419 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2026-07-22 19:37:37,636 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html fetched succesfully. status code: 200
+2026-07-22 19:37:37,648 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2026-07-22 19:37:37,648 | scraperflow.scraper | WARNING  | scraper.py:45 | webscraper.io/test-sites | Data is not parsed for URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2026-07-22 19:38:21,251 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:38:21,993 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 19:38:22,010 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html parsing is completed
+2026-07-22 19:38:22,010 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2026-07-22 19:38:23,061 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html fetched succesfully. status code: 200
+2026-07-22 19:38:23,063 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html parsing is completed
+2026-07-22 19:38:23,063 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/soumission_998/index.html
+2026-07-22 19:38:24,040 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/soumission_998/index.html fetched succesfully. status code: 200
+2026-07-22 19:38:24,047 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/soumission_998/index.html parsing is completed
+2026-07-22 19:38:24,047 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+2026-07-22 19:38:25,146 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html fetched succesfully. status code: 200
+2026-07-22 19:38:25,154 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html parsing is completed
+2026-07-22 19:38:25,154 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2026-07-22 19:38:26,339 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html fetched succesfully. status code: 200
+2026-07-22 19:38:26,348 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html parsing is completed
+2026-07-22 19:38:26,348 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2026-07-22 19:38:27,607 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html fetched succesfully. status code: 200
+2026-07-22 19:38:27,618 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html parsing is completed
+2026-07-22 19:38:27,618 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+2026-07-22 19:38:28,793 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html fetched succesfully. status code: 200
+2026-07-22 19:38:28,805 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html parsing is completed
+2026-07-22 19:38:28,805 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+2026-07-22 19:38:30,065 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html fetched succesfully. status code: 200
+2026-07-22 19:38:30,072 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html parsing is completed
+2026-07-22 19:38:30,072 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+2026-07-22 19:38:31,294 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html fetched succesfully. status code: 200
+2026-07-22 19:38:31,305 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html parsing is completed
+2026-07-22 19:38:31,305 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2026-07-22 19:38:32,487 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html fetched succesfully. status code: 200
+2026-07-22 19:38:32,537 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html parsing is completed
+2026-07-22 19:38:32,667 | scraperflow.scraper | INFO     | scraper.py:52 | Data is saved in json
+2026-07-22 19:39:33,630 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 19:39:34,563 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 19:39:34,588 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html parsing is completed
+2026-07-22 19:39:34,588 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2026-07-22 19:39:35,633 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html fetched succesfully. status code: 200
+2026-07-22 19:39:35,641 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html parsing is completed
+2026-07-22 19:39:35,642 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/soumission_998/index.html
+2026-07-22 19:39:36,742 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/soumission_998/index.html fetched succesfully. status code: 200
+2026-07-22 19:39:36,750 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/soumission_998/index.html parsing is completed
+2026-07-22 19:39:36,750 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+2026-07-22 19:39:37,795 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html fetched succesfully. status code: 200
+2026-07-22 19:39:37,800 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html parsing is completed
+2026-07-22 19:39:37,800 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2026-07-22 19:39:38,947 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html fetched succesfully. status code: 200
+2026-07-22 19:39:38,955 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html parsing is completed
+2026-07-22 19:39:38,955 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2026-07-22 19:39:39,907 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html fetched succesfully. status code: 200
+2026-07-22 19:39:39,916 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html parsing is completed
+2026-07-22 19:39:39,916 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+2026-07-22 19:39:40,978 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html fetched succesfully. status code: 200
+2026-07-22 19:39:40,988 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html parsing is completed
+2026-07-22 19:39:40,988 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+2026-07-22 19:39:41,964 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html fetched succesfully. status code: 200
+2026-07-22 19:39:41,973 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html parsing is completed
+2026-07-22 19:39:41,973 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+2026-07-22 19:39:43,008 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html fetched succesfully. status code: 200
+2026-07-22 19:39:43,025 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html parsing is completed
+2026-07-22 19:39:43,025 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2026-07-22 19:39:44,036 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html fetched succesfully. status code: 200
+2026-07-22 19:39:44,044 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html parsing is completed
+2026-07-22 19:39:44,047 | scraperflow.scraper | INFO     | scraper.py:52 | Data is saved in json
+2026-07-22 20:49:13,915 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 20:49:14,926 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 20:49:14,950 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html parsing is completed
+2026-07-22 20:49:14,953 | scraperflow.scraper | INFO     | scraper.py:52 | Data is saved in json
+2026-07-22 20:49:25,255 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 20:49:26,188 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 20:49:26,212 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html parsing is completed
+2026-07-22 20:49:26,213 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2026-07-22 20:49:27,262 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html fetched succesfully. status code: 200
+2026-07-22 20:49:27,270 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html parsing is completed
+2026-07-22 20:49:27,270 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/soumission_998/index.html
+2026-07-22 20:49:28,335 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/soumission_998/index.html fetched succesfully. status code: 200
+2026-07-22 20:49:28,344 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/soumission_998/index.html parsing is completed
+2026-07-22 20:49:28,344 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+2026-07-22 20:49:29,413 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html fetched succesfully. status code: 200
+2026-07-22 20:49:29,423 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html parsing is completed
+2026-07-22 20:49:29,423 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2026-07-22 20:49:30,547 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html fetched succesfully. status code: 200
+2026-07-22 20:49:30,557 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html parsing is completed
+2026-07-22 20:49:30,557 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2026-07-22 20:49:31,768 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html fetched succesfully. status code: 200
+2026-07-22 20:49:31,779 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html parsing is completed
+2026-07-22 20:49:31,779 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+2026-07-22 20:49:32,946 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html fetched succesfully. status code: 200
+2026-07-22 20:49:32,954 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html parsing is completed
+2026-07-22 20:49:32,954 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+2026-07-22 20:49:33,983 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html fetched succesfully. status code: 200
+2026-07-22 20:49:33,990 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html parsing is completed
+2026-07-22 20:49:33,990 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+2026-07-22 20:49:35,108 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html fetched succesfully. status code: 200
+2026-07-22 20:49:35,119 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html parsing is completed
+2026-07-22 20:49:35,119 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2026-07-22 20:49:36,326 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html fetched succesfully. status code: 200
+2026-07-22 20:49:36,340 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html parsing is completed
+2026-07-22 20:49:36,342 | scraperflow.scraper | INFO     | scraper.py:52 | Data is saved in json
+2026-07-22 20:50:12,549 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 20:50:13,500 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 20:50:13,524 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html parsing is completed
+2026-07-22 20:50:13,524 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2026-07-22 20:50:14,622 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html fetched succesfully. status code: 200
+2026-07-22 20:50:14,627 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html parsing is completed
+2026-07-22 20:50:14,628 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/soumission_998/index.html
+2026-07-22 20:50:15,750 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/soumission_998/index.html fetched succesfully. status code: 200
+2026-07-22 20:50:15,758 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/soumission_998/index.html parsing is completed
+2026-07-22 20:50:15,759 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+2026-07-22 20:50:16,879 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html fetched succesfully. status code: 200
+2026-07-22 20:50:16,888 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html parsing is completed
+2026-07-22 20:50:16,888 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2026-07-22 20:50:18,053 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html fetched succesfully. status code: 200
+2026-07-22 20:50:18,060 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html parsing is completed
+2026-07-22 20:50:18,060 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2026-07-22 20:50:19,243 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html fetched succesfully. status code: 200
+2026-07-22 20:50:19,253 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html parsing is completed
+2026-07-22 20:50:19,253 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+2026-07-22 20:50:20,503 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html fetched succesfully. status code: 200
+2026-07-22 20:50:20,518 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html parsing is completed
+2026-07-22 20:50:20,518 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+2026-07-22 20:50:21,643 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html fetched succesfully. status code: 200
+2026-07-22 20:50:21,653 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html parsing is completed
+2026-07-22 20:50:21,654 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+2026-07-22 20:50:22,867 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html fetched succesfully. status code: 200
+2026-07-22 20:50:22,877 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html parsing is completed
+2026-07-22 20:50:22,877 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2026-07-22 20:50:24,047 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html fetched succesfully. status code: 200
+2026-07-22 20:50:24,059 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html parsing is completed
+2026-07-22 20:50:24,061 | scraperflow.scraper | INFO     | scraper.py:52 | Data is saved in json
+2026-07-22 20:50:47,836 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-07-22 20:50:48,679 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html fetched succesfully. status code: 200
+2026-07-22 20:50:48,705 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html parsing is completed
+2026-07-22 20:50:48,705 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2026-07-22 20:50:49,803 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html fetched succesfully. status code: 200
+2026-07-22 20:50:49,811 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html parsing is completed
+2026-07-22 20:50:49,811 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/soumission_998/index.html
+2026-07-22 20:50:50,924 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/soumission_998/index.html fetched succesfully. status code: 200
+2026-07-22 20:50:50,933 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/soumission_998/index.html parsing is completed
+2026-07-22 20:50:50,933 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+2026-07-22 20:50:51,987 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html fetched succesfully. status code: 200
+2026-07-22 20:50:51,996 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html parsing is completed
+2026-07-22 20:50:51,996 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2026-07-22 20:50:53,184 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html fetched succesfully. status code: 200
+2026-07-22 20:50:53,192 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html parsing is completed
+2026-07-22 20:50:53,192 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2026-07-22 20:50:54,253 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html fetched succesfully. status code: 200
+2026-07-22 20:50:54,263 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html parsing is completed
+2026-07-22 20:50:54,264 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+2026-07-22 20:50:55,362 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html fetched succesfully. status code: 200
+2026-07-22 20:50:55,367 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html parsing is completed
+2026-07-22 20:50:55,367 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+2026-07-22 20:50:56,567 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html fetched succesfully. status code: 200
+2026-07-22 20:50:56,574 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html parsing is completed
+2026-07-22 20:50:56,574 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+2026-07-22 20:50:57,692 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html fetched succesfully. status code: 200
+2026-07-22 20:50:57,703 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html parsing is completed
+2026-07-22 20:50:57,703 | scraperflow.fetcher | INFO     | fetcher.py:7 | Attempting to fetch URL https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2026-07-22 20:50:58,963 | scraperflow.fetcher | INFO     | fetcher.py:12 | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html fetched succesfully. status code: 200
+2026-07-22 20:50:58,974 | scraperflow.scraper | INFO     | scraper.py:47 | bookstoscrape.com | URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html parsing is completed
+2026-07-22 20:50:58,976 | scraperflow.scraper | INFO     | scraper.py:52 | Data is saved in json
+2026-08-01 22:37:10,605 | scraperflow.fetcher | INFO     | fetcher.py:12 | Fetching https://httpco.de/200
+2026-08-01 22:37:11,794 | scraperflow.fetcher | INFO     | fetcher.py:23 | Fetched https://httpco.de/200 successfully
+2026-08-01 22:37:11,795 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://httpco.de/200
+2026-08-01 22:37:11,795 | scraperflow.scraper | WARNING  | scraper.py:45 | bookstoscrape.com | Data is not parsed for URL: https://httpco.de/200
+2026-08-01 22:37:11,795 | scraperflow.fetcher | INFO     | fetcher.py:12 | Fetching https://httpco.de/404
+2026-08-01 22:37:12,570 | scraperflow.fetcher | ERROR    | fetcher.py:29 | HTTP 404: https://httpco.de/404
+2026-08-01 22:37:12,571 | scraperflow.scraper | WARNING  | scraper.py:40 | bookstoscrape.com | Skipping URL: https://httpco.de/404 as HTML response was not received
+2026-08-01 22:37:12,572 | scraperflow.fetcher | INFO     | fetcher.py:12 | Fetching https://httpco.de/500
+2026-08-01 22:37:13,332 | scraperflow.fetcher | WARNING  | fetcher.py:26 | HTTP 500: https://httpco.de/500
+2026-08-01 22:37:13,332 | scraperflow.retry | WARNING  | retry.py:26 | fetch_page failed (attempt 1/3): HTTP 500: https://httpco.de/500. Retrying in 0.23s
+2026-08-01 22:37:13,570 | scraperflow.fetcher | INFO     | fetcher.py:12 | Fetching https://httpco.de/500
+2026-08-01 22:37:14,277 | scraperflow.fetcher | WARNING  | fetcher.py:26 | HTTP 500: https://httpco.de/500
+2026-08-01 22:37:14,277 | scraperflow.retry | WARNING  | retry.py:26 | fetch_page failed (attempt 2/3): HTTP 500: https://httpco.de/500. Retrying in 1.54s
+2026-08-01 22:37:15,821 | scraperflow.fetcher | INFO     | fetcher.py:12 | Fetching https://httpco.de/500
+2026-08-01 22:37:16,710 | scraperflow.fetcher | WARNING  | fetcher.py:26 | HTTP 500: https://httpco.de/500
+2026-08-01 22:37:16,710 | scraperflow.scraper | WARNING  | scraper.py:40 | bookstoscrape.com | Skipping URL: https://httpco.de/500 as HTML response was not received
+2026-08-01 22:38:40,486 | scraperflow.fetcher | INFO     | fetcher.py:12 | Fetching https://httpco.de/200
+2026-08-01 22:38:41,292 | scraperflow.fetcher | INFO     | fetcher.py:23 | Fetched https://httpco.de/200 successfully
+2026-08-01 22:38:41,294 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://httpco.de/200
+2026-08-01 22:38:41,294 | scraperflow.scraper | WARNING  | scraper.py:45 | bookstoscrape.com | Data is not parsed for URL: https://httpco.de/200
+2026-08-01 22:38:41,294 | scraperflow.fetcher | INFO     | fetcher.py:12 | Fetching https://httpco.de/404
+2026-08-01 22:38:41,815 | scraperflow.fetcher | ERROR    | fetcher.py:29 | HTTP 404: https://httpco.de/404
+2026-08-01 22:38:41,815 | scraperflow.scraper | WARNING  | scraper.py:40 | bookstoscrape.com | Skipping URL: https://httpco.de/404 as HTML response was not received
+2026-08-01 22:38:41,818 | scraperflow.fetcher | INFO     | fetcher.py:12 | Fetching https://httpco.de/500
+2026-08-01 22:38:42,369 | scraperflow.fetcher | WARNING  | fetcher.py:26 | HTTP 500: https://httpco.de/500
+2026-08-01 22:38:42,369 | scraperflow.retry | WARNING  | retry.py:26 | fetch_page failed (attempt 1/3): HTTP 500: https://httpco.de/500. Retrying in 0.71s
+2026-08-01 22:38:43,082 | scraperflow.fetcher | INFO     | fetcher.py:12 | Fetching https://httpco.de/500
+2026-08-01 22:38:43,801 | scraperflow.fetcher | WARNING  | fetcher.py:26 | HTTP 500: https://httpco.de/500
+2026-08-01 22:38:43,801 | scraperflow.retry | WARNING  | retry.py:26 | fetch_page failed (attempt 2/3): HTTP 500: https://httpco.de/500. Retrying in 0.34s
+2026-08-01 22:38:44,140 | scraperflow.fetcher | INFO     | fetcher.py:12 | Fetching https://httpco.de/500
+2026-08-01 22:38:44,784 | scraperflow.fetcher | WARNING  | fetcher.py:26 | HTTP 500: https://httpco.de/500
+2026-08-01 22:38:44,784 | scraperflow.scraper | WARNING  | scraper.py:40 | bookstoscrape.com | Skipping URL: https://httpco.de/500 as HTML response was not received
+2026-08-01 22:38:59,360 | scraperflow.fetcher | INFO     | fetcher.py:12 | Fetching https://httpco.de/200
+2026-08-01 22:38:59,959 | scraperflow.fetcher | INFO     | fetcher.py:23 | Fetched https://httpco.de/200 successfully
+2026-08-01 22:38:59,960 | scraperflow.parser | WARNING  | parser.py:16 | Could not parse title from https://httpco.de/200
+2026-08-01 22:38:59,960 | scraperflow.scraper | WARNING  | scraper.py:45 | httpco.de | Data is not parsed for URL: https://httpco.de/200
+2026-08-01 22:38:59,960 | scraperflow.fetcher | INFO     | fetcher.py:12 | Fetching https://httpco.de/404
+2026-08-01 22:39:00,576 | scraperflow.fetcher | ERROR    | fetcher.py:29 | HTTP 404: https://httpco.de/404
+2026-08-01 22:39:00,576 | scraperflow.scraper | WARNING  | scraper.py:40 | httpco.de | Skipping URL: https://httpco.de/404 as HTML response was not received
+2026-08-01 22:39:00,577 | scraperflow.fetcher | INFO     | fetcher.py:12 | Fetching https://httpco.de/500
+2026-08-01 22:39:01,158 | scraperflow.fetcher | WARNING  | fetcher.py:26 | HTTP 500: https://httpco.de/500
+2026-08-01 22:39:01,159 | scraperflow.retry | WARNING  | retry.py:26 | fetch_page failed (attempt 1/3): HTTP 500: https://httpco.de/500. Retrying in 0.09s
+2026-08-01 22:39:01,246 | scraperflow.fetcher | INFO     | fetcher.py:12 | Fetching https://httpco.de/500
+2026-08-01 22:39:01,844 | scraperflow.fetcher | WARNING  | fetcher.py:26 | HTTP 500: https://httpco.de/500
+2026-08-01 22:39:01,844 | scraperflow.retry | WARNING  | retry.py:26 | fetch_page failed (attempt 2/3): HTTP 500: https://httpco.de/500. Retrying in 0.76s
+2026-08-01 22:39:02,616 | scraperflow.fetcher | INFO     | fetcher.py:12 | Fetching https://httpco.de/500
+2026-08-01 22:39:03,104 | scraperflow.fetcher | WARNING  | fetcher.py:26 | HTTP 500: https://httpco.de/500
+2026-08-01 22:39:03,104 | scraperflow.scraper | WARNING  | scraper.py:40 | httpco.de | Skipping URL: https://httpco.de/500 as HTML response was not received
